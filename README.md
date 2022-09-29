@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emily Perry!</h1>
-<h3 align="center">A first year Games Development student living in the UK.</h3>
+<h3 align="center">A second year Games Development student living in the UK.</h3>
 
 - 💻 I'm currently working on various University projects, and a top-down RPG style game in Unity!
 - 🌱 I’m currently learning **C++!**
