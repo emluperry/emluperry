@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emily Perry!</h1>
-<h3 align="center">A third year Games Development student on placement, living in the UK.</h3>
+<h3 align="center">A fourth year Games Development student, living in the UK.</h3>
 
-- 💻 I'm currently on placement, preparing to work on my Final Year Project from 2024, and working on a Pokemon Mystery Dungeon inspired discord bot!
+- 💻 I'm currently in my final year of university,  planning out my Final Year Project, and working on an adventure game on the side!
 - 🌱 I’m currently learning C++ with Unreal Engine!
-- ⚡ Fun fact: I've been using C# for about 5 years now! I first got into coding with Scratch when I was 7 years old.
+- ⚡ Fun fact: I've been using C# for about 7 years now! I first got into coding with Scratch when I was 7 years old.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
