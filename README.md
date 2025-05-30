@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emily Perry!</h1>
-<h3 align="center">A fourth year Games Development student, living in the UK.</h3>
+<h3 align="center">A Games Development graduate, living in the UK.</h3>
 
-- 💻 I'm currently in my final year of university,  planning out my Final Year Project, and working on an adventure game on the side!
-- 🌱 I’m currently learning C++ with Unreal Engine!
-- ⚡ Fun fact: I've been using C# for about 7 years now! I first got into coding with Scratch when I was 7 years old.
+- 💻 I'm a recent university graduate, preparing to go into the industry as a gameplay or tools programmer.
+- 🌱 I'm most proficient with C# and Unity, but I'm hoping to improve with C++ and other languages, as well as look at using new tools and engines such as Godot.
+- ⚡ Fun fact: I first got into coding with Scratch when I was 7 years old.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
